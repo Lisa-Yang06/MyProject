@@ -15,7 +15,7 @@ This project is a placeholder for future, awesome work.
 ## Usage
 Run the following command in RStudio
    ```r
-   source("analysis.R")
+   source("MyLab1.R")
    ```
    
 ## Contributing
