@@ -7,7 +7,7 @@ format: pdf
 
 # Loading Packages and Data
 
-First we need to load the package `tidyverse` and the data frame `fashion_brand`. We got the data from Kaggle.
+First we need to load the package `tidyverse` and the data frame `fashion_brand`, which is extracted from Kaggle.
 
 ```{r}
 pacman::p_load(tidyverse, readxl, janitor, knitr, kableExtra, stringr)
